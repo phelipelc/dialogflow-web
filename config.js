@@ -6,7 +6,7 @@ export default {
     },
     locale: {
         strings: {
-            welcomeTitle: "Hello, ask something to get started",
+            welcomeTitle: "Bem vindo ao boot",
             welcomeDescription: `You can type "Hello" for example. Or just press on the microphone to talk`,
             offlineTitle: "Oh, no!",
             offlineDescription: "It looks like you are not connected to the internet, this webpage requires internet connection, to process your requests",
