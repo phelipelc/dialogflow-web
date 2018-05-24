@@ -1,6 +1,6 @@
 export default {
     app: {
-        token: "b981b06cbf654b1cbac532445ee31203", // <- enter your token here
+        token: "7e4923aacf2b4e8181138517df018256", // <- enter your token here
         muted: true, // <- mute microphone by default
         watermark: true // <- show watermark
     },
