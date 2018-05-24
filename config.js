@@ -14,8 +14,8 @@ export default {
             voiceTitle: "Go ahead, im listening..."
         },
         settings: {
-            speechLang: "en-GB", // <- output language
-            recognitionLang: "en-US" // <- input(recognition) language
+            speechLang: "pt-BR", // <- output language
+            recognitionLang: "pt-BR" // <- input(recognition) language
         }
     }
 }
