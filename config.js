@@ -10,7 +10,7 @@ export default {
             welcomeDescription: `You can type "Hello" for example. Or just press on the microphone to talk`,
             offlineTitle: "Oh, no!",
             offlineDescription: "It looks like you are not connected to the internet, this webpage requires internet connection, to process your requests",
-            queryTitle: "Ask me something...",
+            queryTitle: "Me pergunta algo...",
             voiceTitle: "Go ahead, im listening..."
         },
         settings: {
