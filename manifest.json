@@ -43,10 +43,10 @@
     },
     "type": "privileged",
     "start_url": "index.html",
-    "background_color": "#FFFFFF",
-    "theme_color": "#FF9800",
+    "background_color": "#0000000",
+    "theme_color": "#0000000",
     "dir": "ltr",
     "display": "standalone",
     "orientation": "any",
-    "lang": "en"
+    "lang": "pt"
 }
